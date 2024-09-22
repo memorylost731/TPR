@@ -1,0 +1,32 @@
+# Wardragon OS - Reference for TPR Project
+
+**Wardragon OS** is the operating system of reference for the **Tomographic Passive Radar (TPR)** project. This repository provides guidance on how to install and configure Wardragon OS for use with TPR.
+
+## Purpose
+
+The purpose of Wardragon OS is to provide a stable, optimized environment to run the TPR project, leveraging open-source and scientific tools.
+
+## Installation
+
+Follow the instructions provided on the official Wardragon OS documentation page:
+- [Official Wardragon OS Documentation](https://wardragon-os.com) *(placeholder, to be updated if needed)*
+
+### Steps:
+1. Download the latest version of Wardragon OS.
+2. Create a bootable USB and install the OS.
+3. Configure the OS for optimal use with ROCm, TensorFlow, and other dependencies required by the TPR project.
+
+## Integration with TPR Project
+
+Wardragon OS is tailored to meet the specific needs of the TPR project. This includes custom configurations for GPU acceleration using ROCm and compatibility with TensorFlow and CodeGeeX.
+
+### Custom Setup for TPR:
+- Install ROCm and TensorFlow following our [custom installation guide](https://github.com/OpenForgedSolutions/TPR/blob/main/docs/install-guide.md).
+- Additional tools and dependencies:
+  - Geekcodex CLI
+  - CodeGeeX
+  - Tomographic Passive Radar system utilities
+
+## Contributing
+
+Contributions to this repository should focus on documenting the Wardragon OS setup and integrating it with the TPR project.
