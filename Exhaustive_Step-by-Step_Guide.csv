@@ -1,0 +1,13 @@
+Step,Description
+1. Environment Setup,Install required dependencies and drivers for ROCm. Remove conflicting NVIDIA drivers.
+2. Cloning Projects from GitHub,"Clone ROCm, TensorFlow, CodeGeeX repositories under ./Projects/ using git clone commands."
+3. Compilation of ROCm from Source,Compile ROCm from source by following the official ROCm documentation. Ensure all GPU hardware is supported.
+4. Compilation of TensorFlow from Source,Compile TensorFlow from source with ROCm support. Use custom configurations to optimize GPU usage.
+5. Compilation of CodeGeeX from Source,Compile CodeGeeX from source. Ensure the model is optimized for use with ROCm and TensorFlow integrations.
+6. Configuration and Integration of Geekcodex CLI,Set up and configure geekcodex CLI for managing build processes and dependencies across all components.
+7. Optimizing TensorFlow for ROCm,Optimize TensorFlow and CodeGeeX to work seamlessly with ROCm using custom flags and environment settings.
+8. Verifying the System Configuration,Verify all drivers and dependencies are correctly installed. Check for compatibility across components.
+9. Testing GPU Functionality with ROCm,Run test scripts to verify GPU functionality with ROCm. Benchmark the system performance.
+10. Code Push to GitHub,Push the project code to GitHub. Ensure version control is properly set up for the entire project.
+11. Starting the Tomographic Passive Radar Project,Begin structuring and writing code for the tomographic passive radar system using TensorFlow and CodeGeeX.
+12. Running Initial Tests and Benchmarks,"Run initial tests and benchmarks on the radar project. Verify output, accuracy, and system performance."
