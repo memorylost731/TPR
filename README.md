@@ -35,3 +35,20 @@
 ## Next Steps
 - [List any next steps you'd like to take].
 >>>>>>> 376c39c (Initial README with project overview)
+
+
+
+
+## Hyperspectral Passive Tomographic Radar (HSPTR) Publication
+
+We have published a foundational document detailing the integration of base-60 quaternions, Zero-Knowledge Proofs (ZKP), and plasma dynamics for advanced electromagnetic systems. The practical application of these concepts is demonstrated through the Hyperspectral Passive Tomographic Radar (HSPTR) system.
+
+This document serves as both a theoretical framework and a practical demonstration within the broader TPR project. You can access the publication [here](./HSPTR).
+
+### Key Highlights:
+- Introduction of base-60 quaternions for precise control of electromagnetic fields.
+- Use of ZKP to mitigate Heisenberg Uncertainty Principle in quantum systems.
+- Practical demonstration through HSPTR for cybernetics and electronic warfare applications.
+
+### Future Work:
+We invite contributions, feedback, and discussions to further enhance the development of these concepts. The next steps involve experimental validations and extended applications in radar and cryptography.
